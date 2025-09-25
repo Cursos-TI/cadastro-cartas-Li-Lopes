@@ -1,7 +1,7 @@
 #include <stdio.h>
 
   //Desafio super trunfo.
-  //Primeira etapa, modo novato.
+  //Primeira etapa, modo Aventureiro.
 
   int main(){
     int populacao1, turisticos1, populacao2, turisticos2;
